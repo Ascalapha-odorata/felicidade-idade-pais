@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+country-converter
+scikit-learn
+requests
+openpyxl
